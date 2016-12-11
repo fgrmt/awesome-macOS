@@ -9,7 +9,7 @@ A personally curated list of awesome applications, softwares, tools and shiny th
 	- [Development](#development)
 	- [Music](#music)
 	- [Others](#others)
-	- [Photo & Video Editing](#photo-&-video-editing)
+	- [Photo & Video Editing](#photo--video-editing)
 	- [Productivity](#productivity)
 	- [Tools](#tools)
 - [Command Line Utilities](#command-line-utilities)
