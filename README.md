@@ -74,7 +74,7 @@ A personally curated list of awesome applications, softwares, tools and shiny th
 
 ### Photo & Video Editing
 
-- [Cinemagraph Pro](https://flixel.com/products/mac/cinemagraph-pro/) -
+- [Cinemagraph Pro](https://flixel.com/products/mac/cinemagraph-pro/) - Create living photos.
 - [Compressor](http://www.apple.com/lae/final-cut-pro/compressor/) - Powerful encoding. Delivered.
 - [Final Cut Pro](http://www.apple.com/lae/final-cut-pro/) - Post-production. Fast-forwarded.
 - [GIFBrewery](http://gifbrewery.com) - Creating fine-crafted GIFs for Mac users worldwide.
@@ -86,6 +86,7 @@ A personally curated list of awesome applications, softwares, tools and shiny th
 
 - [Calendar](https://www.icloud.com) - Calendar keeps your appointments.
 - [Contacts](https://www.icloud.com) - Manage and sync your contacts.
+- [Google Hangouts](https://hangouts.google.com) - Bring conversations to life with photos, emoji, and even group video calls for free.
 - [iBooks](http://www.apple.com/ibooks/) - Buy and download books, manage your purchases, organize your library, and more.
 - [Keynote](http://www.apple.com/keynote/) - Beautiful presentations for everyone. By everyone.
 - [Marked 2](http://marked2app.com) - Smarter tools for smarter writers.
@@ -101,7 +102,6 @@ A personally curated list of awesome applications, softwares, tools and shiny th
 - [Paws for Trello](http://friendlyfox.es/pawsfortrello/) - Paws for Trello is the best way to use Trello on your PC.
 - [Skype](https://www.skype.com) - Skype keeps the world talking.
 - [Skype for Business](https://www.skype.com/en/business/skype-for-business/) - Online meetings with Skype for Business.
-- [Google Hangouts](https://hangouts.google.com) - Bring conversations to life with photos, emoji, and even group video calls for free.
 - [Slack](https://slack.com) - Be less busy.
 - [Ulysses](https://ulyssesapp.com) - The Ultimate Writing App for Mac.
 
@@ -120,8 +120,8 @@ A personally curated list of awesome applications, softwares, tools and shiny th
 - [Folders Factory](https://itunes.apple.com/en/app/folders-factory/id442153412?mt=12) - Customize the look of your macOS folder.
 - [Go2Shell](http://zipzapmac.com/go2shell) - Opens a terminal window to the current directory in Finder.
 - [Lingon X](https://www.peterborgapps.com/lingon/) - An easy to use yet powerful app to run things automatically.
+- [Parallels Desktop](http://www.parallels.com/) - Run Windows on your Mac.
 - [Parcel](https://parcelapp.net) - All Deliveries in One Place.
-- [Parallels  Desktop](http://www.parallels.com/) - Run Windows on your Mac.
 - [Pastebot](http://tapbots.com/pastebot/beta/) - Versatile clipboard manager for your Mac.
 - [Quitter](https://marco.org/apps) - Automatically hides or quits apps after periods of inactivity.
 - [Skitch](https://evernote.com/skitch/) - Get your point across with fewer words using annotation, shapes and sketches.
@@ -132,14 +132,14 @@ A personally curated list of awesome applications, softwares, tools and shiny th
 
 ## Command Line Utilities
 
-- [zsh](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
-- [Oh My ZSH!](http://ohmyz.sh) - Your terminal never felt this good before.
-- [Homebrew](http://brew.sh) - The missing package manager for macOS.
 - [AppleDoc](https://github.com/tomaz/appledoc) - Objective-c code Apple style documentation set generator.
-- [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
+- [CocoaPods](https://cocoapods.org) - Dependency manager for Swift and Objective-C Cocoa projects.
 - [Git flow AVH](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+- [Homebrew](http://brew.sh) - The missing package manager for macOS.
+- [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
 - [MergePBX](https://github.com/simonwagner/mergepbx) - Script for merging XCode project files in git.
 - [Node.js](https://nodejs.org) - Event-driven I/O server-side JavaScript environment based on V8.
-- [CocoaPods](https://cocoapods.org) - Dependency manager for Swift and Objective-C Cocoa projects.
+- [Oh My ZSH!](http://ohmyz.sh) - Your terminal never felt this good before.
+- [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
+- [zsh](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
