@@ -113,6 +113,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [Notes](https://apps.apple.com/app/notes/id1110145109) - Notes and sketches synced across all devices.
 - [Numbers](https://apps.apple.com/app/numbers-make-spreadsheets/id361304891?l=en-GB) - Spreadsheets that bring everyone to the table.
 - [OmniPlan](https://www.omnigroup.com/omniplan) - Project management for Mac.
+- [Orkas](https://orkas.ai/?source=gh_fgrmt) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [Pages](https://apps.apple.com/app/pages-create-documents/id361309726) - Documents that stand apart. Created together.
 - [Reminders](https://apps.apple.com/app/reminders/id1108187841) - Create and organize to-do lists, and get reminded about the things that matter.
 - [Safari](https://www.apple.com/safari/) - The best way to experience the internet on all your Apple devices.
