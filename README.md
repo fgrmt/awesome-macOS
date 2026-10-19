@@ -97,6 +97,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [Base](https://menial.co.uk/base/) - Create, design, edit and browse SQLite 3 database files.
 - [Codye](https://darioroa.com/codye/) - Turn your code snippets into beautiful images for presentations and docs.
 - [Dash](https://kapeli.com/dash) - Instant offline access to 150+ API documentation sets.
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer for Markdown, source code, documents and Git diffs, with basic UTF-8 text editing.
 - [Kaleidoscope](https://www.kaleidoscopeapp.com) - Spot the Differences. Merge in seconds.
 - [Tower](https://www.git-tower.com/mac/) - Version control with Git - made easy. In a beautiful, efficient, and powerful app.
 - [UTM](https://getutm.app) - Run Windows, Linux and more on your Mac, iPhone or iPad, via a full system emulator/VM host.
