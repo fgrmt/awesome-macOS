@@ -66,6 +66,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 
 ## App Store & ASO
 
+- [App Store Localizer](https://asolocalization.com) - Localize App Store screenshots and metadata from a public listing URL, with one-time pricing per listing.
 - [Astro](https://tryastro.app) - Track your App Store rankings across iOS, iPadOS, macOS, tvOS and watchOS.
 - [Helm](https://helm-app.com) - Enhances App Store Connect with AI-powered tools for updates, localization and ASO.
 - [Kickstart](https://www.kickstart.tools) - Store optimization, competitor tracking, analytics, reviews and launch assets for indie developers, in one app.
