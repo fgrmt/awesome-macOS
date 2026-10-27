@@ -165,6 +165,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [1Blocker](https://1blocker.com) - Block ads, tracking scripts, anything.
 - [Alcove](https://tryalcove.com) - Bring iOS's Dynamic Island to your Mac's menu bar.
 - [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) - Keep your Mac (and its display) awake, on demand or automatically via custom triggers.
+- [Command Reopen](https://commandreopen.com) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 - [DaisyDisk](https://daisydiskapp.com) - What's taking up your disk space?
 - [Equinox](https://equinoxmac.com) - Create dynamic macOS wallpapers - Solar, Time, or Light/Dark - for free.
 - [Hyperkey](https://hyperkey.app) - Turn Caps Lock into a Hyper key for custom keyboard shortcuts.
