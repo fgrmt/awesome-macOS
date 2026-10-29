@@ -170,6 +170,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [Hyperkey](https://hyperkey.app) - Turn Caps Lock into a Hyper key for custom keyboard shortcuts.
 - [Keka](https://www.keka.io) - The macOS file archiver.
 - [Latest](https://max.codes/latest/) - A small utility that keeps track of updates for all the apps on your Mac.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Menu bar app that restores window positions and Spaces when you reconnect external displays, with brightness sync and USB-C arrangement presets.
 - [MacPass](https://macpassapp.org) - A native, open source KeePass-compatible password manager for macOS.
 - [Noir](https://getnoir.app) - Dark mode for Safari, on every website.
 - [Raycast](https://www.raycast.com) - A blazingly fast, totally extendable launcher.
