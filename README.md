@@ -79,6 +79,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [Ghostty](https://ghostty.org) - A fast, feature-rich, cross-platform terminal emulator.
 - [gnupg](https://gnupg.org) - Complete and free implementation of the OpenPGP standard.
 - [Homebrew](https://brew.sh) - The missing package manager for macOS.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Open-source network diagnostics for macOS, with JSON output and a local MCP server.
 - [pinentry-mac](https://github.com/GPGTools/pinentry-mac) - A pinentry program for GnuPG with a native macOS UI.
 - [Starship](https://starship.rs) - The minimal, blazing-fast and infinitely customizable prompt for any shell.
 - [stow](https://www.gnu.org/software/stow/) - A symlink farm manager, handy for managing dotfiles.
