@@ -114,6 +114,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [Numbers](https://apps.apple.com/app/numbers-make-spreadsheets/id361304891?l=en-GB) - Spreadsheets that bring everyone to the table.
 - [OmniPlan](https://www.omnigroup.com/omniplan) - Project management for Mac.
 - [Pages](https://apps.apple.com/app/pages-create-documents/id361309726) - Documents that stand apart. Created together.
+- [Refrain](https://refrainformac.com/?ref=awesome-macos-fgrmt) - Menu bar app that keeps reusable text in one markdown file and pastes it from a global shortcut.
 - [Reminders](https://apps.apple.com/app/reminders/id1108187841) - Create and organize to-do lists, and get reminded about the things that matter.
 - [Safari](https://www.apple.com/safari/) - The best way to experience the internet on all your Apple devices.
 - [Things](https://culturedcode.com) - The award-winning personal task manager that helps you plan your day and manage your projects.
