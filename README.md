@@ -171,6 +171,7 @@ _(iOS • iPadOS • macOS • watchOS • visionOS)_
 - [Keka](https://www.keka.io) - The macOS file archiver.
 - [Latest](https://max.codes/latest/) - A small utility that keeps track of updates for all the apps on your Mac.
 - [MacPass](https://macpassapp.org) - A native, open source KeePass-compatible password manager for macOS.
+- [Mouse Jiggler for Mac](https://mousejigglermac.com/) - Keep your Mac awake from the menu bar, with optional scheduled cursor movement.
 - [Noir](https://getnoir.app) - Dark mode for Safari, on every website.
 - [Raycast](https://www.raycast.com) - A blazingly fast, totally extendable launcher.
 - [Shottr](https://shottr.cc) - A tiny, fast screenshot tool with annotations and scrolling capture.
