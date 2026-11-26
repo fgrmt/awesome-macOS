@@ -36,6 +36,7 @@ A personally curated list of awesome applications, software, tools and shiny thi
 - [Framer](https://www.framer.com) - Publish stunning sites, without writing code.
 - [Icon Composer](https://developer.apple.com/icon-composer/) - Apple's tool for building layered, adaptive app icons for iPhone, iPad, Mac and Apple Watch.
 - [ImageOptim](https://imageoptim.com) - Optimize images to save space and load faster, without losing quality.
+- [Linger](https://withlinger.com/) - Organize visual references and images locally on macOS.
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - A library of thousands of consistent, highly configurable symbols you can use in your app.
 - [Shareshot](https://shareshot.app) - Frame your screenshots and add beautiful backgrounds before sharing them.
 - [Spline](https://spline.design) - Design and animate 3D content for the web and mobile, collaboratively.
